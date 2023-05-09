@@ -1,0 +1,71 @@
+
+
+.menu {
+    width:100%;
+    background-color: black;
+    list-style:  none;
+    color: white;
+}
+.menu li {
+    padding: 15px 30px ;
+    display: inline-block;
+}
+.left { 
+    width: 65%;
+    float: left;
+}
+.book {
+    width: 100%;
+}
+.left h1 {
+    border-left: 3px solid black;
+    border-bottom: 1px solid black;
+}
+.kizi {
+    margin-bottom: 40px;
+    height:600px;
+    padding:13px;
+    background-color: rgb(192, 192, 192);
+}
+.itidan .i_pic1 {
+    float: left;
+    width: 23%;
+    padding:12px;
+    text-align: center;
+}
+.i_pic1 img{
+    width: 100%;
+}
+
+.nidan .n_pic2 {
+    float: left;
+    width: 23%;
+    text-align: center;
+    padding:12px 12px 12px 12px ;
+}
+
+.n_pic2 img {
+    width: 100%;
+}
+.right {
+    width: 30%;
+    float: left;
+    margin-left: 70px;
+    margin-top: 11px;
+}
+.right h2 {
+    border-bottom: 2px dashed black;
+}
+.right li {
+    list-style: none;
+    padding: 8px;
+}
+
+footer {
+    padding: 10px;
+    clear: left;
+    width:100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
